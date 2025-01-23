@@ -1,6 +1,5 @@
 # Welcome to the Mecatron Interview Task!
-# TASK DOCUMENT IS UPDATED, CHANGED FROM NEW BRANCH TO FORK
-## Link to UPDATED Task Document: https://drive.google.com/file/d/1bnukmJjzGpEtv415BS-KYW17t_oSF8-J/view?usp=sharing
+## Link to Task Document: https://drive.google.com/file/d/1bnukmJjzGpEtv415BS-KYW17t_oSF8-J/view?usp=sharing
 ## Link to Video: https://drive.google.com/file/d/1zWU8Qxa7ST2_K4K0V5vtbojp50ONZSwX/view?usp=sharing
 ## Link to Form: https://docs.google.com/forms/d/e/1FAIpQLScrNDGAydfajFhp-OjQosYaQHAtSXcYwnZmGGVCp3NnsR8aXA/viewform?usp=header
 
